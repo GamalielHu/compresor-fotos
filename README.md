@@ -2,6 +2,10 @@
 
 Comprime lotes de fotos (JPG, PNG, WebP) en paralelo, estilo WhatsApp, y las guarda en un `.zip`.
 
+## Descargar
+
+Baja `CompresorFotos.exe` de la última versión en [Releases](../../releases/latest) y ábrelo con doble clic. Se compila solo en cada cambio a `main`.
+
 ## Instalar y ejecutar
 
 ```bash
